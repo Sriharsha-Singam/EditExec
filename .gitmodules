@@ -1,0 +1,3 @@
+[submodule "DataStructureLibs"]
+	path = DataStructureLibs
+	url = https://github.com/Sriharsha-Singam/DataStructureLibs.git
